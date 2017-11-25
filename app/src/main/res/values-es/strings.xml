@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">localización</string>
+    <string name="greetings">Hola</string>
+    <string name="name_hint">introduzca su nombre</string>
+    <string name="username">su nombre es <xliff:g example="dania" id="name">%s</xliff:g></string>
+</resources>

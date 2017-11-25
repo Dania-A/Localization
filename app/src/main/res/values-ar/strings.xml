@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">تطبيق الترجمة</string>
+    <string name="greetings">مرحبا</string>
+    <string name="name_hint">ادخل اسمك</string>
+    <string name="username">اسمك هو <xliff:g example="دانيا" id="name">%s</xliff:g></string>
+</resources>
